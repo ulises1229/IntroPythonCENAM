@@ -1,4 +1,4 @@
- # CURSO-TALLER: Introducción al análisis y visualización de datos en Python 
+ # Introducción al análisis y visualización de datos en Python 
 
 ![alt text](figs/header.png)
 ![alt text](figs/python.png)
@@ -17,11 +17,9 @@
 
 ## Impartido por:
 
-[Dr. Ulises Olivares Pinto](www.hpclab.unam.mx)
-<ul>
-  <li> Dr. Ulises Olivares Pinto</li>
-  <li> Walter André Rosales Reyes</li>
-</ul>
++ [Dr. Ulises Olivares Pinto](www.hpclab.unam.mx)
++ Lic. Walter André Hauri Rosales
+
 
 ## Temario, materiales y videos
 
