@@ -3,17 +3,22 @@
 ![alt text](figs/header.png)
 ![alt text](figs/python.png)
 
-## Fechas, horarios y lugar
+## Fecha y horario
 #### Fechas: 14 - 16 de diciembre de 2022
 #### Horario: 09:00 a 13:00 horas.
 #### Lugar: Centro Nacional de Metrología (CENAM)
 
 
-## Página del curso (curso previo)
+## Página del curso (Recursos adicionales)
 [www.hpclab.unam.mx/course/python](http://www.hpclab.unam.mx/course/python)
 
 ## Prerequisitos
-<ol><li>Computadora personal</li> <li> Cuenta de Gmail</li><li>Conexión a internet</li><li>Explorar [Google Colaboratory](https://colab.research.google.com/)</li></ol>
+<ol>
+  <li>Computadora personal</li> 
+  <li> Cuenta de Gmail</li>
+  <li>Conexión a internet</li>
+  <li>Explorar [Google Colaboratory](https://colab.research.google.com/)</li>
+</ol>
 
 ## Impartido por:
 
