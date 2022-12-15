@@ -17,7 +17,7 @@
   <li>Computadora personal</li> 
   <li> Cuenta de Gmail</li>
   <li>Conexión a internet</li>
-  <li>Explorar [Google Colaboratory](https://colab.research.google.com/)</li>
+  <li>Explorar <a href="https://colab.research.google.com">Google Colaboratory</a></li>
 </ol>
 
 ## Impartido por:
