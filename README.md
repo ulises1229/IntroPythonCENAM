@@ -36,4 +36,4 @@
 | Día 3      | Manipulación de datos | <ul> <li> Importación de datos CSV, TXT </li> <li> Pandas (o	DataFrames, ordenamientos, subconjuntos de filas y columnas, Unión de DataFrames)</li> <li>Estadísticos básicos </li></ul>  |  <ol><li>[Presentación](pdf/Día3.pdf)</li> <li>[Código(Colab)](code/cenam_día3.ipynb)</li> </ol>  | |
 
 
-##### Última modificación: 13 de diciembre de 2022
+##### Última modificación: 16 de diciembre de 2022
